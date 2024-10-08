@@ -1,3 +1,14 @@
+# Low Cost and Optimized FPGA-HIL Real Time Simulation of a Boost Converter Powered by a Photovoltaic Panel
+## IEEE LATIN AMERICA TRANSACTIONS
+## ID Number: 8678
+## Autores:
+  ### Rodolfo Orosco Guerrero
+  ### Elías Rodríguez Segura
+  ### Juan Martínez Nolasco
+  ### Fany Rodríguez García
+
+
+
 # Code to implement HIL simulation on a National Instruments FPGA platform
 The presented codes were generated in LabView 2019.
 
